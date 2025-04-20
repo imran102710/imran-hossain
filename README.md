@@ -1,30 +1,24 @@
-![I am harun181](https://github.com/harun181/harun181/blob/main/code.png)
+![I am imran102710](https://github.com/imran102710/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm imran hossain </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">student Hablu Programmer</h4>
+<h4 align="center">student of Hablu Programmer</h4>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=imran102710&color=red)
 
 Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning programming language , JavaScript, python 
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
 - 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
